@@ -158,8 +158,12 @@ ul li a:hover {
 
 footer {
   padding: 24px 0;
-  font-size: 14px;
+  font-size: 12px;
   text-align: center;
+}
+
+footer p {
+  margin-bottom: 5px;
 }
 
 @media (min-width: 700px) {
